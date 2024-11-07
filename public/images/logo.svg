@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- Church building -->
+  <path d="M100 20 L180 100 L160 100 L160 180 L40 180 L40 100 L20 100 Z" fill="#ffffff"/>
+  
+  <!-- Cross -->
+  <rect x="90" y="60" width="20" height="60" fill="#4a5568"/>
+  <rect x="70" y="80" width="60" height="20" fill="#4a5568"/>
+  
+  <!-- Gear representing management -->
+  <circle cx="100" cy="140" r="30" fill="#ed8936"/>
+  <path d="M100 120 L105 110 L115 115 L120 105 L130 110 L125 120 L135 125 L130 135 L120 130 L115 140 L105 135 L110 125 Z" fill="#ffffff"/>
+</svg>
